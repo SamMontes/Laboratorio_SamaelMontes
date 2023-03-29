@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio03Montes</string>
+    <string name="caption">Cantidad de dinero.</string>
+    <string name="five_cents">$0.05</string>
+    <string name="ten_cents">$0.10</string>
+    <string name="quarter">$0.25</string>
+    <string name="one_dollar">$1.00</string>
+</resources>
