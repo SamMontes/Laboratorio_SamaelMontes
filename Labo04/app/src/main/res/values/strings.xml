@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio04Montes</string>
+    <string name="caption">Rellena la siguiente información</string>
+    <string name="caption_share">Confirma tu Información</string>
+    <string name="save_text_button">Guardar</string>
+    <string name="share_text_button">Compartir</string>
+</resources>
