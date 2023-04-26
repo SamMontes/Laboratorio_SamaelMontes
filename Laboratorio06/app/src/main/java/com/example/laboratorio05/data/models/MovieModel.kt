@@ -1,4 +1,10 @@
-package com.example.laboratorio05.models
+package com.example.laboratorio05.data.models
 
-class MovieModel {
-}
+data class MovieModel(
+    val name: String,
+    val category: String,
+    val description: String,
+    val qualification: String,
+)
+
+

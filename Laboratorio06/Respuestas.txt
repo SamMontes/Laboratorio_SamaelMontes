@@ -1,0 +1,3 @@
+Respuesta 1: Consiste en el aislamiento de la capa de datos con respecto a los componentes visuales de la aplicacion. Dentro de ella se encuentran las bases de datos de Room, manejo de errores, etc.
+
+Respuesta 2: Es un contenedor que almacena y conserva los datos, a pesar de navegar entre las distintas actividades o al rotar la pantalla. Ademas sirve de intermediario entre el Model y el View.
