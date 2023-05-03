@@ -1,0 +1,19 @@
+RESPUESTA 1:
+
+Mantiene los datos actualizados, evita las fugas de memoria y el ciclo de vida se realiza de manera automática.
+
+RESPUESTA 2:
+
+Sigue el patrón de diseño observador.
+
+RESPUESTA 3:
+
+En el gradle de modulo se agrega el siguiente código:
+
+dataBinding{
+    enabled true
+}
+
+RESPUESTA 4:
+
+Es una función que permite vincular los elementos de la UI con los datos de la aplicación. A diferencia de findViewById, DataBinding no necesita declarar las variables, por lo que ahorra en el tema de tamaño de código.
